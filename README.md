@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm psyccode 👋
+# Hi, I'm 6sense 👋
 
 ### Systems Programmer & Security Tooling Developer
 
