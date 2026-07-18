@@ -89,8 +89,8 @@ A modern, modular Windows security platform built with C# and .NET.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=6sense&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6sense&layout=compact&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=6senseu&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6senseu&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
