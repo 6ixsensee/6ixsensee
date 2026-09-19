@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm 6sense
+# 👋 Hi, I'm 6ixsense
 
 ### Cybersecurity Enthusiast • Software Developer • Windows Security
 
